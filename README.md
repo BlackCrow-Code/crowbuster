@@ -70,12 +70,19 @@ Bash
 python3 crowbuster.py -u [https://example.com](https://example.com) -w wordlist.txt -T 40 -d 2 -o live_paths.txt
 ```
 ⚙️ Available Arguments
+
 Argument	Long Flag	Description	Default
+
 -u	--url	[Required] The target Uniform Resource Locator	None
+
 -w	--wordlist	[Required] Path to your custom payload list	None
+
 -T	--threads	Number of concurrent worker threads	15
+
 -d	--depth	Maximum allowed directory recursion depth	4
+
 -o	--output	Save valid discovered paths to a local file	None
+
 ⚠️ Additional Terms, Disclaimer & Advice
 
 [!WARNING]
@@ -98,7 +105,7 @@ Author
 
 Developer: BlackCrow-Code
 
-Source Profile: [GitHub/BlackCrow-Code](https://github.com/BlackCrow-Code)
+Source Profile: [GitHub/BlackCrow-Code](https://github.com/BlackCrow-Code/LICENSE)
 
 License
 
