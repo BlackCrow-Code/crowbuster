@@ -40,11 +40,11 @@ Since it's built and fully compatible with **Kali Linux**, clone the repository 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/BlackCrow-Code/CrowBuster.git](https://github.com/BlackCrow-Code/CrowBuster.git)
-
+git clone https://github.com/BlackCrow-Code/crowbuster.git
+   
 # Navigate into the project directory
-cd CrowBuster
-
+cd crowbuster
+             
 # Install required packages
 pip install -r requirements.txt
 ```
