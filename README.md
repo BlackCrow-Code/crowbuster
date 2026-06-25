@@ -52,12 +52,11 @@ pip install -r requirements.txt
 Help Options
 
 To view all available parameters and configurations:
-Bash
+```bash
 
 python3 crowbuster.py -h
-
+```
 Basic Directory Fuzzing
-Bash
 
 ```bash
 python3 crowbuster.py -u https://example.com -w wordlist.txt
