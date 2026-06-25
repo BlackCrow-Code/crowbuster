@@ -1,4 +1,4 @@
-# CrowBuster 🦅
+# crowbuster 🦅
 
 [![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blueviolet?style=for-the-badge&logo=kalilinux)](https://www.kali.org)
 [![Language](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)](https://python.org)
