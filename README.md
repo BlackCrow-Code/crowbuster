@@ -69,7 +69,8 @@ Bash
 ```bash
 python3 crowbuster.py -u [https://example.com](https://example.com) -w wordlist.txt -T 40 -d 2 -o live_paths.txt
 ```
-⚙️ Available Arguments
+
+# ⚙️ Available Arguments
 
 Argument	Long Flag	Description	Default
 
@@ -83,7 +84,8 @@ Argument	Long Flag	Description	Default
 
 -o	--output	Save valid discovered paths to a local file	None
 
-⚠️ Additional Terms, Disclaimer & Advice
+
+# ⚠️ Additional Terms, Disclaimer & Advice
 
 [!WARNING]
 1. Legal & Ethical Use Only
@@ -100,8 +102,9 @@ The developer (BlackCrow-Code) is absolutely NOT responsible for any misuse, une
 
 Always ensure you have written, explicit authorization (such as an active Bug Bounty scope or an official Pentest agreement) before initiating any automated scan against a target. Unauthorized fuzzing can be flagged as a cyber attack, impact service availability, or result in permanent IP bans. Stay ethical, keep learning, and use your skills strictly to build and secure.
 
-📜 Credit & License
-Author
+
+# 📜 Credit & License
+ Author:-
 
 Developer: BlackCrow-Code
 
