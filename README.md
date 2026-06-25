@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blueviolet?style=for-the-badge&logo=kalilinux)](https://www.kali.org)
 [![Language](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT%20%2B%20Custom-green?style=for-the-badge)](https://github.com/BlackCrow-Code/Ncrow/blob/main/LICENSE)
 
 An advanced, high-performance, and recursive multi-threaded web directory and file fuzzer tailored for penetration testers and security researchers. Fully developed and optimized inside **Kali Linux**, this tool leverages connection pooling and thread-safe concurrency to uncover hidden paths with blazing-fast speeds.
 
