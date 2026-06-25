@@ -111,5 +111,7 @@ Developer: BlackCrow-Code
 Source Profile: [https://github.com/BlackCrow-Code](https://github.com/BlackCrow-Code)
 
 License: [https://github.com/BlackCrow-Code/LICENSE](https://github.com/BlackCrow-Code/crowbuster?tab=License-1-ov-file)
+### License
+This project is licensed under the **MIT License** with **Additional Custom Developer Terms**. 
 
-This project is licensed under the MIT License.
+Please review the full license text below, alongside the [Additional Terms & Disclaimer](#-additional-terms-disclaimer--advice) section above, which constitutes an essential condition for utilizing this software.
