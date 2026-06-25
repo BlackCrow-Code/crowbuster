@@ -67,8 +67,9 @@ Advanced High-Thread Scanning with Output Logging
 Fuzz a target utilizing 40 concurrent threads, setting a strict recursion limit of 2 levels deep, and dumping all discovered routes (200 OK) into a file:
 Bash
 
+```bash
 python3 crowbuster.py -u [https://example.com](https://example.com) -w wordlist.txt -T 40 -d 2 -o live_paths.txt
-
+```
 ⚙️ Available Arguments
 Argument	Long Flag	Description	Default
 -u	--url	[Required] The target Uniform Resource Locator	None
@@ -78,27 +79,27 @@ Argument	Long Flag	Description	Default
 -o	--output	Save valid discovered paths to a local file	None
 ⚠️ Additional Terms, Disclaimer & Advice
 
-    [!WARNING]
-    1. Legal & Ethical Use Only
+[!WARNING]
+1. Legal & Ethical Use Only
 
-    Notwithstanding the permissions granted in the MIT License, the use of this software ("crowbuster") for any illegal activities, unauthorized cyber operations, malicious hacking, or any action that causes harm to individuals or organizations is strictly prohibited. This software is intended solely for educational, research, and authorized ethical security testing purposes.
+Notwithstanding the permissions granted in the MIT License, the use of this software ("crowbuster") for any illegal activities, unauthorized cyber operations, malicious hacking, or any action that causes harm to individuals or organizations is strictly prohibited. This software is intended solely for educational, research, and authorized ethical security testing purposes.
 
-    [!IMPORTANT]
-    2. Developer Disclaimer 
+[!IMPORTANT]
+2. Developer Disclaimer 
 
-    The developer (BlackCrow-Code) is absolutely NOT responsible for any misuse, unethical deployment, or illegal damage caused by this tool. By utilizing this software, you agree to take full legal and ethical liability for your actions and your scanning targets.
+The developer (BlackCrow-Code) is absolutely NOT responsible for any misuse, unethical deployment, or illegal damage caused by this tool. By utilizing this software, you agree to take full legal and ethical liability for your actions and your scanning targets.
 
-    [!TIP]
-    3. Professional Security Advice 
+[!TIP]
+3. Professional Security Advice 
 
-    Always ensure you have written, explicit authorization (such as an active Bug Bounty scope or an official Pentest agreement) before initiating any automated scan against a target. Unauthorized fuzzing can be flagged as a cyber attack, impact service availability, or result in permanent IP bans. Stay ethical, keep learning, and use your skills strictly to build and secure.
+Always ensure you have written, explicit authorization (such as an active Bug Bounty scope or an official Pentest agreement) before initiating any automated scan against a target. Unauthorized fuzzing can be flagged as a cyber attack, impact service availability, or result in permanent IP bans. Stay ethical, keep learning, and use your skills strictly to build and secure.
 
 📜 Credit & License
 Author
 
-    Developer: BlackCrow-Code
+Developer: BlackCrow-Code
 
-    Source Profile: GitHub/BlackCrow-Code
+Source Profile: [GitHub/BlackCrow-Code](https://github.com/BlackCrow-Code)
 
 License
 
