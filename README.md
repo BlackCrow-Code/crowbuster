@@ -47,7 +47,7 @@ cd CrowBuster
 
 # Install required packages
 pip install -r requirements.txt
-
+```
 📖 Usage Guide & Examples
 Help Options
 
@@ -59,8 +59,9 @@ python3 crowbuster.py -h
 Basic Directory Fuzzing
 Bash
 
-python3 crowbuster.py -u [https://example.com](https://example.com) -w wordlist.txt
-
+```bash
+python3 crowbuster.py -u https://example.com -w wordlist.txt
+```
 Advanced High-Thread Scanning with Output Logging
 
 Fuzz a target utilizing 40 concurrent threads, setting a strict recursion limit of 2 levels deep, and dumping all discovered routes (200 OK) into a file:
@@ -80,15 +81,15 @@ Argument	Long Flag	Description	Default
     [!WARNING]
     1. Legal & Ethical Use Only
 
-    Notwithstanding the permissions granted in the MIT License, the use of this software ("CrowBuster") for any illegal activities, unauthorized cyber operations, malicious hacking, or any action that causes harm to individuals or organizations is strictly prohibited. This software is intended solely for educational, research, and authorized ethical security testing purposes.
+    Notwithstanding the permissions granted in the MIT License, the use of this software ("crowbuster") for any illegal activities, unauthorized cyber operations, malicious hacking, or any action that causes harm to individuals or organizations is strictly prohibited. This software is intended solely for educational, research, and authorized ethical security testing purposes.
 
     [!IMPORTANT]
-2. Developer Disclaimer (إخلاء المسؤولية القانونية)
+    2. Developer Disclaimer 
 
     The developer (BlackCrow-Code) is absolutely NOT responsible for any misuse, unethical deployment, or illegal damage caused by this tool. By utilizing this software, you agree to take full legal and ethical liability for your actions and your scanning targets.
 
     [!TIP]
-    3. Professional Security Adviceنصيحة أمنية)
+    3. Professional Security Advice 
 
     Always ensure you have written, explicit authorization (such as an active Bug Bounty scope or an official Pentest agreement) before initiating any automated scan against a target. Unauthorized fuzzing can be flagged as a cyber attack, impact service availability, or result in permanent IP bans. Stay ethical, keep learning, and use your skills strictly to build and secure.
 
@@ -101,4 +102,4 @@ Author
 
 License
 
-This project is licensed under the MIT License - see below for details:
+This project is licensed under the MIT License.
